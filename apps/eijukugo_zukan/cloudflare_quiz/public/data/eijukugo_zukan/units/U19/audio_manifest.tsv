@@ -1,0 +1,24 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.485	1.273	0.788	skip		19.
+2	2.519	3.109	0.590	skip		about.
+3	3.822	4.501	0.679	skip		around.
+4	5.683	8.084	2.401	sentence	S01.mp3	He writes many books about cats.
+5	9.283	11.230	1.947	sentence	S02.mp3	That rock is about to fall.
+6	12.449	14.721	2.272	sentence	S03.mp3	I want to travel around the world.
+7	15.983	17.410	1.426	sentence	S04.mp3	Turn around the corner.
+8	18.648	19.560	0.912	skip		Talk about.
+9	20.758	22.484	1.726	sentence	S05.mp3	What are you talking about?
+10	23.681	24.453	0.772	skip		Think about.
+11	25.655	27.260	1.606	sentence	S06.mp3	What are you thinking about?
+12	28.490	29.458	0.968	skip		Speak about.
+13	30.649	32.853	2.204	sentence	S07.mp3	He spoke about Japan's economy.
+14	34.048	34.829	0.782	skip		Come around.
+15	36.086	38.607	2.521	sentence	S08.mp3	That cat comes around when it's hungry.
+16	39.817	40.731	0.914	skip		Go around.
+17	41.914	43.988	2.074	sentence	S09.mp3	I went around to his office.
+18	45.192	46.076	0.883	skip		Hang around.
+19	47.264	48.867	1.603	sentence	S10.mp3	I hung around the bookshop.
+20	50.195	51.102	0.906	skip		shop around
+21	52.322	54.491	2.169	sentence	S11.mp3	I'll shop around this afternoon.
+22	55.718	56.485	0.766	skip		run around.
+23	57.708	60.194	2.486	sentence	S12.mp3	The kids are running around in the park.

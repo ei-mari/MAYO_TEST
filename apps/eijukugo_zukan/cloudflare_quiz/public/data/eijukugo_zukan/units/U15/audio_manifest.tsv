@@ -1,0 +1,28 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.521	1.253	0.732	skip		15.
+2	2.451	2.970	0.519	skip		Bye.
+3	3.581	4.160	0.580	skip		aside.
+4	5.418	8.783	3.365	sentence	S01.mp3	The orchestra was conducted by Ozzawa Siji.
+5	10.011	11.413	1.402	sentence	S02.mp3	How do you go to work?
+6	12.105	13.773	1.668	sentence	S03.mp3	I go to work by train.
+7	15.011	16.811	1.800	sentence	S04.mp3	I seldom watch TV.
+8	17.307	18.585	1.278	skip		Aside from news.
+9	19.774	21.929	2.155	sentence	S05.mp3	Will you move that box aside?
+10	23.109	23.874	0.765	skip		run by
+11	25.116	26.986	1.870	sentence	S06.mp3	I saw children running by.
+12	28.239	28.954	0.715	skip		Cheers..
+13	30.172	31.895	1.723	sentence	S07.mp3	Combine on your way home.
+14	33.148	33.988	0.840	skip		Stop by.
+15	35.238	37.777	2.538	sentence	S08.mp3	Can I stop by at that convenience store?
+16	38.974	39.426	0.453	skip		Set.
+17	39.842	40.453	0.611	skip		aside.
+18	41.638	44.367	2.729	sentence	S09.mp3	I'll set this money aside for the future.
+19	45.576	46.462	0.886	skip		step aside.
+20	47.707	50.017	2.309	sentence	S10.mp3	Step aside for me to pass.
+21	51.208	52.077	0.869	skip		Lay aside.
+22	53.209	55.233	2.024	sentence	S11.mp3	He laid aside his glasses.
+23	56.442	57.324	0.881	sentence	S12.mp3	Lay your side.
+24	58.509	61.560	3.051	sentence	S13.mp3	You should lay aside this money for the future.
+25	62.805	63.426	0.621	skip		elbow.
+26	63.867	64.477	0.610	skip		aside.
+27	65.674	67.555	1.881	sentence	S14.mp3	The elbowed people aside.

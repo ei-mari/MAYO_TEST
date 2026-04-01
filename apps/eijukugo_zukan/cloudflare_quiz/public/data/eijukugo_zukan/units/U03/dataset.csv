@@ -1,0 +1,29 @@
+chapter,qno,english,japanese,ipa_us,question_image,audio_file,phrasal,accepted,cloze
+U03,1,The rocket flew up into the sky.,ロケットは上空に打ち上げられた。,/ðə ˈrɑkət fluː ʌp ˈɪntu ðə skaɪ/,/images/eijukugo_zukan/U03/Q01.png,/audio/eijukugo_zukan/U03/S01.mp3,up,up,The rocket flew [BLANK] into the sky.
+U03,2,The boy grew up to be a doctor.,少年は成長して医者になった。,/ðə bɔɪ ɡruː ʌp tə bi ə ˈdɑktər/,/images/eijukugo_zukan/U03/Q02.png,/audio/eijukugo_zukan/U03/S02.mp3,up,up,The boy grew [BLANK] to be a doctor.
+U03,3,The car is speeding up.,その車はどんどん加速している。,/ðə kɑr ɪz ˈspiːdɪŋ ʌp/,/images/eijukugo_zukan/U03/Q03.png,/audio/eijukugo_zukan/U03/S03.mp3,speeding up,speeding up|speed up,The car is [BLANK].
+U03,4,Time's up.,時間終了です。,/taɪmz ʌp/,/images/eijukugo_zukan/U03/Q04.png,/audio/eijukugo_zukan/U03/S04.mp3,up,up,Time's [BLANK].
+U03,5,Can you dig up this plant?,この植物を掘り起こせますか。,/kæn ju dɪɡ ʌp ðɪs plænt/,/images/eijukugo_zukan/U03/Q06.png,/audio/eijukugo_zukan/U03/S05.mp3,dig up,dig up,Can you [BLANK] this plant?
+U03,6,Gather up your toys.,自分のおもちゃを拾い集めなさい。,/ˈɡæðər ʌp jʊr tɔɪz/,/images/eijukugo_zukan/U03/Q05.png,/audio/eijukugo_zukan/U03/S06.mp3,gather up,gather up,[BLANK] your toys.
+U03,7,He didn't show up at the party.,彼はパーティー会場に現れなかった。,/hi ˈdɪdənt ʃoʊ ʌp æt ðə ˈpɑrti/,/images/eijukugo_zukan/U03/Q07.png,/audio/eijukugo_zukan/U03/S07.mp3,show up,show up,He didn't [BLANK] at the party.
+U03,8,Can you count up to 20 in English?,英語で20まで数えられますか。,/kæn ju kaʊnt ʌp tə ˈtwɛnti ɪn ˈɪŋɡlɪʃ/,/images/eijukugo_zukan/U03/Q08.png,/audio/eijukugo_zukan/U03/S08.mp3,count up,count up,Can you [BLANK] to 20 in English?
+U03,9,Wake me up at six tomorrow morning.,明日の朝は6時に起こしてください。,/weɪk mi ʌp æt sɪks təˈmɔroʊ ˈmɔrnɪŋ/,/images/eijukugo_zukan/U03/Q09.png,/audio/eijukugo_zukan/U03/S09.mp3,wake up,wake up,[BLANK] me up at six tomorrow morning.
+U03,10,Speak up! I can't hear you.,大きな声で話してください！聞こえません。,/spiːk ʌp aɪ kænt hɪr juː/,/images/eijukugo_zukan/U03/Q10.png,/audio/eijukugo_zukan/U03/S10.mp3,speak up,speak up,[BLANK]! I can't hear you.
+U03,11,Add up these figures quickly.,すぐにこの数の合計を出してください。,/æd ʌp ðiːz ˈfɪɡjərz ˈkwɪkli/,/images/eijukugo_zukan/U03/Q11.png,/audio/eijukugo_zukan/U03/S11.mp3,add up,add up,[BLANK] these figures quickly.
+U03,12,Don't hang up on me.,電話を切らないで。,/doʊnt hæŋ ʌp ɑn miː/,/images/eijukugo_zukan/U03/Q12.png,/audio/eijukugo_zukan/U03/S12.mp3,hang up,hang up,Don't [BLANK] on me.
+U03,13,He studied hard to catch up with his classmates.,彼はクラスメイトに追いつくために一生懸命に勉強した。,/hi ˈstʌdid hɑrd tə kætʃ ʌp wɪð hɪz ˈklæsˌmeɪts/,/images/eijukugo_zukan/U03/Q13.png,/audio/eijukugo_zukan/U03/S13.mp3,catch up with,catch up with,He studied hard to [BLANK] his classmates.
+U03,14,Hurry up.,急いで！,/ˈhɝi ʌp/,/images/eijukugo_zukan/U03/Q14.png,/audio/eijukugo_zukan/U03/S14.mp3,hurry up,hurry up,[BLANK].
+U03,15,I want to brush up on my English.,自分の英語を磨き直したい。,/aɪ wɑnt tə brʌʃ ʌp ɑn maɪ ˈɪŋɡlɪʃ/,/images/eijukugo_zukan/U03/Q15.png,/audio/eijukugo_zukan/U03/S15.mp3,brush up on,brush up on,I want to [BLANK] my English.
+U03,16,He used up all the money in one day.,彼は一日でお金を使い果たした。,/hi juːzd ʌp ɔl ðə ˈmʌni ɪn wʌn deɪ/,/images/eijukugo_zukan/U03/Q16.png,/audio/eijukugo_zukan/U03/S16.mp3,used up,used up|use up,He [BLANK] all the money in one day.
+U03,17,Eat up your fish.,魚を全部食べなさい。,/iːt ʌp jʊr fɪʃ/,/images/eijukugo_zukan/U03/Q17.png,/audio/eijukugo_zukan/U03/S17.mp3,eat up,eat up,[BLANK] your fish.
+U03,18,Drink up your orange juice.,オレンジジュースを全部飲みなさい。,/drɪŋk ʌp jʊr ˈɔrɪndʒ dʒuːs/,/images/eijukugo_zukan/U03/Q18.png,/audio/eijukugo_zukan/U03/S18.mp3,drink up,drink up,[BLANK] your orange juice.
+U03,19,The plane burned up in the crash.,飛行機は墜落して燃え尽きた。,/ðə pleɪn bɝnd ʌp ɪn ðə kræʃ/,/images/eijukugo_zukan/U03/Q19.png,/audio/eijukugo_zukan/U03/S19.mp3,burned up,burned up|burn up,The plane [BLANK] in the crash.
+U03,20,"Fill it up, please.",（ガソリンスタンドで）満タンでお願いします。,/fɪl ɪt ʌp pliːz/,/images/eijukugo_zukan/U03/Q20.png,/audio/eijukugo_zukan/U03/S20.mp3,fill up,fill up,"Fill it [BLANK], please."
+U03,21,The farmer ended up as president.,その農夫は最後には大統領になった。,/ðə ˈfɑrmər ˈɛndɪd ʌp æz ˈprɛzɪdənt/,/images/eijukugo_zukan/U03/Q21.png,/audio/eijukugo_zukan/U03/S21.mp3,ended up,ended up|end up,The farmer [BLANK] as president.
+U03,22,Help me clear up the room.,部屋を片付けるのを手伝って。,/hɛlp mi klɪr ʌp ðə ruːm/,/images/eijukugo_zukan/U03/Q22.png,/audio/eijukugo_zukan/U03/S22.mp3,clear up,clear up,Help me [BLANK] the room.
+U03,23,The sky cleared up after the storm.,嵐の後、空は晴れ上がった。,/ðə skaɪ klɪrd ʌp ˈæftər ðə stɔrm/,/images/eijukugo_zukan/U03/Q23.png,/audio/eijukugo_zukan/U03/S23.mp3,cleared up,cleared up|clear up,The sky [BLANK] after the storm.
+U03,24,Please line up in two rows.,2列に並んでください。,/pliːz laɪn ʌp ɪn tuː roʊz/,/images/eijukugo_zukan/U03/Q24.png,/audio/eijukugo_zukan/U03/S24.mp3,line up,line up,Please [BLANK] in two rows.
+U03,25,Don't forget to lock up the house.,家の戸締りを忘れずに。,/doʊnt fərˈɡɛt tə lɑk ʌp ðə haʊs/,/images/eijukugo_zukan/U03/Q25.png,/audio/eijukugo_zukan/U03/S25.mp3,lock up,lock up,Don't forget to [BLANK] the house.
+U03,26,Shut up.,黙りなさい！,/ʃʌt ʌp/,/images/eijukugo_zukan/U03/Q26.png,/audio/eijukugo_zukan/U03/S26.mp3,shut up,shut up,[BLANK].
+U03,27,Will you blow up the tire on my bike?,私の自転車のタイヤに空気を入れてくれますか。,/wɪl ju bloʊ ʌp ðə taɪər ɑn maɪ baɪk/,/images/eijukugo_zukan/U03/Q27.png,/audio/eijukugo_zukan/U03/S27.mp3,blow up,blow up,Will you [BLANK] the tire on my bike?
+U03,28,The dynamite blew up the big rock.,ダイナマイトがその大きな岩を爆破した。,/ðə ˈdaɪnəˌmaɪt bluː ʌp ðə bɪɡ rɑk/,/images/eijukugo_zukan/U03/Q28.png,/audio/eijukugo_zukan/U03/S28.mp3,blew up,blew up|blow up,The dynamite [BLANK] the big rock.

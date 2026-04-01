@@ -1,0 +1,26 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.472	1.393	0.921	skip		17.
+2	2.619	3.166	0.547	skip		after.
+3	3.702	4.286	0.584	skip		along.
+4	4.944	5.777	0.833	skip		across.
+5	7.016	9.243	2.228	sentence	S01.mp3	He paints pictures after Monet.
+6	10.485	13.165	2.680	sentence	S02.mp3	They continued the work day after day.
+7	14.390	17.003	2.614	sentence	S03.mp3	add milk along with butter to the soup.
+8	18.387	21.641	3.254	sentence	S04.mp3	His house is across the street from the library.
+9	22.883	23.885	1.002	skip		Chase after.
+10	25.088	28.366	3.278	sentence	S05.mp3	The police officer chased after the pick pocket.
+11	29.559	30.508	0.949	sentence	S06.mp3	See you after.
+12	31.752	34.270	2.518	sentence	S07.mp3	He continued to seek after the truth.
+13	35.685	36.576	0.891	skip		Name A.
+14	36.865	37.657	0.792	skip		After B.
+15	38.887	42.340	3.453	sentence	S08.mp3	My father named me after a famous actor.
+16	43.568	44.424	0.857	skip		Go along.
+17	45.715	47.338	1.623	sentence	S09.mp3	Go along this street.
+18	48.554	49.396	0.842	skip		Go along.
+19	50.654	52.950	2.296	sentence	S10.mp3	You'll make it up as you go along.
+20	54.186	55.285	1.100	skip		Go along with.
+21	56.623	59.080	2.457	sentence	S11.mp3	I can't go along with your proposal.
+22	60.316	61.087	0.771	skip		Come along.
+23	62.286	63.808	1.522	sentence	S12.mp3	I'll come along too.
+24	65.052	66.117	1.065	skip		Run across.
+25	67.271	69.616	2.344	sentence	S13.mp3	I ran across him at the airport.

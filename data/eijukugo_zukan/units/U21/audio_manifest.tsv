@@ -1,0 +1,25 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.478	1.269	0.791	skip		21.
+2	2.512	3.073	0.561	skip		Together, ...vals ...
+3	3.822	4.450	0.628	skip		Apart.
+4	5.645	7.600	1.955	sentence	S01.mp3	I work together with Alice.
+5	8.816	10.525	1.709	sentence	S02.mp3	Let's sing a song together.
+6	11.778	13.964	2.186	sentence	S03.mp3	I live apart from my parents.
+7	15.183	18.173	2.991	sentence	S04.mp3	My brother and I are five years apart.
+8	19.383	20.287	0.904	skip		Get together.
+9	21.438	23.052	1.614	sentence	S05.mp3	Let's get together tonight.
+10	24.251	25.174	0.923	skip		Live together.
+11	26.414	28.849	2.435	sentence	S06.mp3	We live together before we got married.
+12	30.117	30.986	0.869	skip		Go together.
+13	32.214	34.671	2.457	sentence	S07.mp3	This tie and this suit go together.
+14	35.912	36.720	0.808	skip		Come together.
+15	37.949	41.151	3.202	sentence	S08.mp3	Those two countries came together on this issue.
+16	42.389	43.220	0.831	skip		Fall apart.
+17	44.414	46.825	2.411	sentence	S09.mp3	The country is going to fall apart.
+18	48.012	48.882	0.870	sentence	S10.mp3	Take a part.
+19	50.082	52.062	1.980	sentence	S11.mp3	He can take the radial apart.
+20	53.245	54.136	0.890	sentence	S12.mp3	Take a part.
+21	55.347	57.048	1.700	sentence	S13.mp3	E. Tuckapart is opponent.
+22	58.245	58.679	0.434	skip		Tell?
+23	59.261	59.868	0.607	skip		Apart.
+24	61.078	63.814	2.735	sentence	S14.mp3	Can you tell those twin sisters apart?

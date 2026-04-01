@@ -1,0 +1,24 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.495	0.874	0.379	skip		
+2	2.085	2.638	0.553	skip		down.
+3	3.897	5.041	1.144	sentence	S01.mp3	Put your hand down.
+4	6.283	7.828	1.545	sentence	S02.mp3	The train slowed down.
+5	9.049	12.561	3.512	sentence	S03.mp3	This scrap metal will be melted down and used again.
+6	13.850	15.667	1.817	sentence	S04.mp3	You settle down on the sofa.
+7	16.896	17.611	0.715	skip		All down.
+8	18.905	20.971	2.065	sentence	S05.mp3	The building suddenly fell down.
+9	22.183	22.939	0.755	skip		Right down.
+10	24.184	26.236	2.051	sentence	S06.mp3	Write down your name and address.
+11	27.416	28.171	0.755	skip		Lie down.
+12	29.424	31.454	2.029	sentence	S07.mp3	I want to lie down on the sofa.
+13	32.683	33.486	0.803	skip		Lay down.
+14	34.718	37.177	2.459	sentence	S08.mp3	The soldiers laid down their weapons.
+15	38.385	39.263	0.878	skip		Calm down.
+16	40.481	42.411	1.930	sentence	S09.mp3	I hope things will calm down.
+17	43.699	44.542	0.842	skip		Burn down.
+18	45.783	47.665	1.882	sentence	S10.mp3	My house was burned down.
+19	48.898	49.772	0.874	skip		shut down.
+20	50.703	51.590	0.887	skip		closed down.
+21	52.885	55.403	2.519	sentence	S11.mp3	They decided to shut down the branch.
+22	56.619	57.383	0.764	skip		die down.
+23	58.651	60.130	1.479	sentence	S12.mp3	the wind died down.

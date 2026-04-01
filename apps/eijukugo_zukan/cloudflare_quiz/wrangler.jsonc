@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "eijukugo-zukan",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-03-25",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "vars": {
+    "APP_NAME": "Phrasal Verb Training"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "eijukugo-zukan-db",
+      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+    }
+  ]
+}

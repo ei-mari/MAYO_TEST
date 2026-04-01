@@ -1,0 +1,13 @@
+.DS_Store
+
+# source masters not needed for test release
+AUDIO 01/
+AUDIO 02/
+
+# local history
+archive/
+
+# app/runtime noise
+node_modules/
+dist/
+.wrangler/

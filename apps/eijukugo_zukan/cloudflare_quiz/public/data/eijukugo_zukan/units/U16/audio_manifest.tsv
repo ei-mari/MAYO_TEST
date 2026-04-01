@@ -1,0 +1,26 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.488	1.342	0.854	skip		16.
+2	2.580	3.181	0.601	skip		into.
+3	4.413	6.456	2.043	sentence	S01.mp3	The car crashed into the wall.
+4	7.683	9.116	1.433	sentence	S02.mp3	I'm into jazz.
+5	10.318	12.890	2.572	sentence	S03.mp3	I don't have time to go into detail.
+6	14.116	16.228	2.112	sentence	S04.mp3	The plate broke into pieces.
+7	17.419	18.395	0.976	skip		bump into.
+8	19.651	22.483	2.833	sentence	S05.mp3	I bumped into my ex-girlfriend yesterday.
+9	23.711	24.727	1.016	skip		Change into
+10	25.949	27.672	1.723	sentence	S06.mp3	I'll change into a suit.
+11	28.882	29.858	0.975	skip		Melting to.
+12	31.080	33.081	2.001	sentence	S07.mp3	The ice melted into water.
+13	34.318	36.252	1.934	sentence	S08.mp3	Divide A into B.
+14	37.480	39.991	2.510	sentence	S09.mp3	Mother divided the cake into five.
+15	41.294	42.453	1.159	skip		Translate A.
+16	42.744	43.426	0.683	skip		into B.
+17	44.669	47.824	3.155	sentence	S10.mp3	Can you translate this sentence into Chinese?
+18	49.023	50.034	1.011	skip		Burst into.
+19	51.249	54.703	3.454	sentence	S11.mp3	The class burst into laughter at the teacher's joke.
+20	55.916	56.868	0.952	skip		Grow into.
+21	58.094	60.961	2.867	sentence	S12.mp3	His business grew into a big company.
+22	62.178	63.066	0.888	skip		Hawk A.
+23	63.449	64.039	0.591	skip		into.
+24	64.656	65.044	0.388	skip		In.
+25	66.254	68.961	2.707	sentence	S13.mp3	I talked him into giving up smoking.

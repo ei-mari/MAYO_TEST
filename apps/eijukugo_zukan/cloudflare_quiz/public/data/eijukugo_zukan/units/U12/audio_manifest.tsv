@@ -1,0 +1,26 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.478	0.924	0.446	skip		12.
+2	2.297	2.666	0.369	skip		from
+3	3.913	5.805	1.892	sentence	S01.mp3	He took the knife from the robber.
+4	7.051	9.558	2.506	sentence	S02.mp3	She makes jam from apricots.
+5	10.748	12.697	1.948	sentence	S03.mp3	The cat shivers from cold.
+6	13.925	16.698	2.773	sentence	S04.mp3	The accident kept me from coming in time.
+7	17.945	19.467	1.522	sentence	S05.mp3	tell A from B.
+8	20.716	24.867	4.152	sentence	S06.mp3	The twins are so alike, I can't tell one from the other.
+9	26.082	26.948	0.867	skip		differ from
+10	28.182	30.885	2.703	sentence	S07.mp3	My car differs from yours in color.
+11	32.082	32.901	0.819	skip		die from
+12	34.116	36.685	2.569	sentence	S08.mp3	Many children die from starvation.
+13	37.920	38.831	0.911	skip		suffer from.
+14	40.065	42.047	1.983	sentence	S09.mp3	He's suffering from depression.
+15	43.280	44.221	0.941	skip		Result from.
+16	45.446	49.145	3.698	sentence	S10.mp3	The accident resulted from the driver's carelessness.
+17	50.347	51.379	1.032	skip		Refrain from.
+18	52.687	54.637	1.950	sentence	S11.mp3	Please refrain from smoking.
+19	55.878	57.497	1.619	sentence	S12.mp3	Prevent A from...
+20	58.209	58.585	0.376	skip		In.
+21	59.818	64.098	4.281	sentence	S13.mp3	The typhoon prevented the train from arriving on time.
+22	65.311	66.448	1.137	skip		Prohibit A.
+23	66.723	67.121	0.399	skip		from
+24	67.940	68.304	0.363	skip		
+25	69.646	72.556	2.910	sentence	S14.mp3	The law prohibits miners from drinking.

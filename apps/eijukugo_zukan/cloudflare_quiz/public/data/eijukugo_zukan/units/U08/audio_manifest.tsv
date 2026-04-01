@@ -1,0 +1,39 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.489	0.896	0.406	skip		8.
+2	2.081	2.532	0.452	skip		At...
+3	3.748	6.078	2.331	sentence	S01.mp3	Our train arrived at Tokyo Station.
+4	7.341	9.380	2.039	sentence	S02.mp3	The President arrived at Tokyo.
+5	10.584	12.067	1.483	sentence	S03.mp3	He threw a ball at me.
+6	13.283	15.254	1.971	sentence	S04.mp3	My husband is still at work.
+7	16.648	17.409	0.761	skip		Pollat
+8	18.614	20.844	2.229	sentence	S05.mp3	I call that his office yesterday.
+9	22.082	23.046	0.964	skip		Smile at.
+10	24.261	25.767	1.506	sentence	S06.mp3	She's smiling at me.
+11	26.902	27.689	0.787	skip		Lafat.
+12	28.885	30.129	1.244	sentence	S07.mp3	Don't laugh at me.
+13	31.350	32.269	0.919	skip		Glance at.
+14	33.484	35.093	1.609	sentence	S08.mp3	He glanced at his watch.
+15	36.320	37.193	0.874	skip		Stair at.
+16	38.383	40.250	1.867	sentence	S09.mp3	Why are you staring at me?
+17	41.452	42.257	0.805	skip		Gaze that.
+18	43.449	45.463	2.014	sentence	S10.mp3	She gazed at the diamond ring.
+19	46.750	48.019	1.269	skip		Get angry at.
+20	49.223	50.885	1.662	sentence	S11.mp3	Don't get angry at me.
+21	52.121	52.888	0.768	skip		Show that.
+22	54.085	56.056	1.971	sentence	S12.mp3	You don't have to shout at me.
+23	57.286	58.635	1.349	skip		be surprised at.
+24	59.816	61.841	2.025	sentence	S13.mp3	He was surprised at the news.
+25	63.020	63.828	0.808	skip		Sniff at.
+26	65.022	67.243	2.221	sentence	S14.mp3	The dog is sniffing at my bag.
+27	68.514	69.972	1.458	sentence	S15.mp3	point A at B.
+28	71.225	73.138	1.913	sentence	S16.mp3	Don't point your finger at me.
+29	74.381	75.873	1.492	sentence	S17.mp3	A-A-A-B.
+30	77.150	79.243	2.093	sentence	S18.mp3	the aim to gun at the target.
+31	80.466	81.177	0.711	skip		Shoot at.
+32	82.386	84.307	1.921	sentence	S19.mp3	The hunter shot at a bird.
+33	85.586	86.754	1.168	sentence	S20.mp3	Make a guess at.
+34	87.981	90.134	2.153	sentence	S21.mp3	Can you make a guess at my age?
+35	91.348	92.065	0.717	skip		catch that.
+36	93.249	94.485	1.235	sentence	S22.mp3	and call at the ball.
+37	95.725	96.566	0.842	skip		Drive that.
+38	97.750	99.223	1.473	sentence	S23.mp3	What are you driving at?

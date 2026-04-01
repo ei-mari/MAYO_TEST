@@ -1,0 +1,39 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.518	1.245	0.727	skip		14.
+2	2.483	2.755	0.272	skip		with.
+3	4.153	6.642	2.489	sentence	S01.mp3	Do you want some sugar with your coffee?
+4	7.852	10.689	2.837	sentence	S02.mp3	The robber threatened the clerk with a gun.
+5	11.881	13.150	1.270	sentence	S03.mp3	I agree with you.
+6	14.459	17.009	2.550	sentence	S04.mp3	He's always quarreling with his wife.
+7	18.415	19.348	0.933	skip		be filled with.
+8	20.716	22.901	2.185	sentence	S05.mp3	The glass is filled with wine.
+9	24.209	25.167	0.958	skip		Be covered with
+10	26.551	28.792	2.240	sentence	S06.mp3	The mountain is covered with snow.
+11	30.016	31.077	1.061	skip		Be crowded with.
+12	32.452	35.177	2.725	sentence	S07.mp3	The bus is crowded with passengers.
+13	36.384	37.437	1.052	skip		Be equipped with.
+14	38.652	40.674	2.021	sentence	S08.mp3	They were equipped with weapons.
+15	41.883	42.967	1.083	skip		Be furnished with.
+16	44.350	47.395	3.046	sentence	S09.mp3	The room is furnished with a bed and a sofa.
+17	48.618	49.761	1.143	skip		Be presented with.
+18	51.150	53.343	2.193	sentence	S10.mp3	He was presented with an award.
+19	54.519	55.151	0.632	skip		Deal with.
+20	56.552	58.885	2.333	sentence	S11.mp3	He's a difficult person to deal with.
+21	60.215	62.001	1.786	sentence	S12.mp3	provide A with B.
+22	63.181	65.227	2.046	sentence	S13.mp3	How's provide us with milk?
+23	66.614	68.231	1.617	sentence	S14.mp3	Plant A with B.
+24	69.450	71.875	2.425	sentence	S15.mp3	He planted the garden with tulips.
+25	73.083	74.764	1.681	sentence	S16.mp3	Replace A with B.
+26	76.051	78.175	2.124	sentence	S17.mp3	They replaced coal with oil.
+27	79.417	80.060	0.643	skip		Mix with.
+28	81.416	83.589	2.172	sentence	S18.mp3	Oil does not mix with water.
+29	84.824	85.835	1.011	skip		correspond with
+30	87.221	89.807	2.585	sentence	S19.mp3	I correspond with a friend in India.
+31	91.047	91.978	0.931	skip		Be faced with.
+32	93.350	96.928	3.578	sentence	S20.mp3	The company is faced with a difficult situation.
+33	98.181	100.035	1.854	sentence	S21.mp3	Compare A with B.
+34	101.260	103.641	2.381	sentence	S22.mp3	I compared my answer with his.
+35	104.848	105.619	0.772	skip		compete with
+36	106.836	110.399	3.563	sentence	S23.mp3	Japan competed for a gold medal with America.
+37	111.615	112.428	0.813	skip		Struggle with.
+38	113.783	116.665	2.882	sentence	S24.mp3	The police officers struggled with a robber.

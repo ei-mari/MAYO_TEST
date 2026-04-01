@@ -1,0 +1,28 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.481	1.233	0.752	skip		18.
+2	2.451	3.007	0.556	skip		Aldo.
+3	4.006	4.444	0.439	skip		real
+4	5.781	8.256	2.475	sentence	S01.mp3	Take your hands out of your pockets.
+5	9.450	10.959	1.509	sentence	S02.mp3	We are out of danger.
+6	12.150	14.314	2.164	sentence	S03.mp3	This train goes through to Ginsa.
+7	15.518	18.255	2.737	sentence	S04.mp3	This shop is open Monday through Saturday.
+8	19.485	21.286	1.802	sentence	S05.mp3	Sheet A out of B.
+9	22.544	24.583	2.038	sentence	S06.mp3	It cheated me out of my money.
+10	25.814	26.713	0.899	skip		Talk A.
+11	27.021	27.515	0.495	skip		Out of...
+12	28.209	28.596	0.387	skip		雨
+13	29.814	32.094	2.279	sentence	S07.mp3	I talked him out of marrying her.
+14	33.317	34.177	0.860	skip		Go out of...
+15	35.560	37.348	1.788	sentence	S08.mp3	The ship went out of sight.
+16	38.552	39.478	0.927	skip		Stay out of.
+17	40.784	42.595	1.812	sentence	S09.mp3	Stay out of my business.
+18	43.785	44.301	0.517	skip		Read.
+19	45.063	45.493	0.430	skip		The real.
+20	46.739	48.640	1.902	sentence	S10.mp3	Have you read the report through?
+21	49.856	50.709	0.853	skip		See through.
+22	51.981	54.193	2.212	sentence	S11.mp3	I couldn't see through his lies.
+23	55.389	55.882	0.493	skip		See.
+24	56.828	57.201	0.373	skip		through.
+25	58.448	60.534	2.086	sentence	S12.mp3	I want to see this job through.
+26	61.816	62.667	0.851	skip		Blow through.
+27	63.983	66.075	2.092	sentence	S13.mp3	The temps flows through London.

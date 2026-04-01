@@ -1,0 +1,23 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.482	0.968	0.486	skip		Pen…
+2	2.182	2.523	0.341	skip		2.
+3	3.789	6.405	2.617	sentence	S01.mp3	The city lies to the north of Tokyo.
+4	7.651	9.559	1.907	sentence	S02.mp3	He goes to work by car.
+5	10.817	12.711	1.894	sentence	S03.mp3	He grew up to be a doctor.
+6	13.926	17.235	3.308	sentence	S04.mp3	A giant defeated the dragons, 10 to 1.
+7	18.452	19.315	0.863	skip		Listen to.
+8	20.518	21.482	0.964	sentence	S05.mp3	Listen to me.
+9	22.719	23.559	0.840	skip		lead to.
+10	24.816	26.588	1.773	sentence	S06.mp3	All roads lead to Rome.
+11	27.822	28.649	0.827	skip		About 2.
+12	29.888	33.015	3.126	sentence	S07.mp3	is debts amounted to $1 million.
+13	34.222	35.063	0.841	sentence	S08.mp3	a greet too.
+14	36.244	37.944	1.700	sentence	S09.mp3	I agree to your proposal.
+15	39.217	40.139	0.921	skip		belong to
+16	41.351	43.146	1.795	sentence	S10.mp3	I belong to the tennis club.
+17	44.385	45.173	0.789	skip		Stick to.
+18	46.391	47.870	1.479	sentence	S11.mp3	Stick to your decision.
+19	49.082	50.062	0.980	skip		Objective.
+20	51.284	54.793	3.508	sentence	S12.mp3	They objected to the construction of a new airport.
+21	55.982	57.674	1.692	sentence	S13.mp3	Prefer A to B.
+22	58.882	61.088	2.206	sentence	S14.mp3	I prefer baseball to soccer.

@@ -1,0 +1,30 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.481	1.053	0.572	skip		20.
+2	2.286	2.782	0.497	skip		Back.
+3	3.791	4.270	0.479	sentence	S01.mp3	stars come be lay ascended
+4	5.199	5.753	0.555	skip		ahead.
+5	7.088	8.378	1.291	sentence	S02.mp3	He looked back at me.
+6	9.585	10.622	1.036	sentence	S03.mp3	Don't look back.
+7	11.143	12.776	1.632	sentence	S04.mp3	Just keep moving forward.
+8	14.051	16.233	2.182	sentence	S05.mp3	I look forward to the next game.
+9	17.452	20.205	2.753	sentence	S06.mp3	The giants are ahead in the third inning.
+10	21.414	21.930	0.516	skip		call.
+11	22.561	23.072	0.511	skip		that.
+12	24.281	25.949	1.668	sentence	S07.mp3	I'll call you back later.
+13	27.185	28.004	0.819	skip		Step back.
+14	29.432	30.622	1.190	sentence	S08.mp3	Please step back.
+15	31.818	32.908	1.091	skip		Step forward.
+16	34.219	37.003	2.784	sentence	S09.mp3	You stepped forward to receive the prize.
+17	38.258	39.889	1.630	sentence	S10.mp3	Put oneself forward.
+18	41.083	42.934	1.851	sentence	S11.mp3	Don't put yourself forward.
+19	44.114	44.495	0.381	skip		report.
+20	45.467	46.079	0.612	skip		Towards.
+21	47.251	50.292	3.041	sentence	S12.mp3	I put my watch forward five seconds.
+22	51.518	52.324	0.806	skip		Go ahead.
+23	53.617	54.349	0.732	skip		Go ahead.
+24	55.554	56.509	0.955	skip		Go ahead.
+25	57.814	59.311	1.497	sentence	S13.mp3	Can I use the restroom?
+26	59.903	60.398	0.494	skip		Yes.
+27	60.691	61.266	0.575	skip		Go ahead.
+28	62.518	63.401	0.883	skip		Go ahead.
+29	64.584	67.493	2.909	sentence	S14.mp3	The festival will go ahead as planned.

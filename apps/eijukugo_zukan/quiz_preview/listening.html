@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Phrasal Verb Training - Listening</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="wrap">
+      <header>
+        <h1>Phrasal Verb Training</h1>
+      </header>
+
+      <section class="unit-tabs" id="unitTabs"></section>
+
+      <section class="scope-tabs">
+        <button id="btnScopeAll" class="active">ALL</button>
+        <button id="btnScopeRandom">RANDOM</button>
+        <button id="btnScopeMust">MUST</button>
+      </section>
+
+      <section class="card">
+        <div class="imgPane">
+          <img id="qImg" alt="question image" />
+        </div>
+
+        <div class="bodyPane">
+          <p id="guide" class="guide"></p>
+
+          <div class="panel active">
+            <div class="playerRow">
+              <audio id="audioPlayer" controls preload="none"></audio>
+              <label class="speedControl">
+                倍速
+                <select id="playbackRate">
+                  <option value="0.5">0.5x</option>
+                  <option value="0.75">0.75x</option>
+                  <option value="1" selected>1.0x</option>
+                  <option value="1.25">1.25x</option>
+                  <option value="1.5">1.5x</option>
+                  <option value="1.75">1.75x</option>
+                  <option value="2">2.0x</option>
+                </select>
+              </label>
+            </div>
+            <p class="guide playerGuide">音声を聞いて英文の意味がわかるかをチェックしよう。ヒントは必要に応じて使ってね！</p>
+            <div class="hintWrap">
+              <p id="hintCloze" class="hintText" hidden></p>
+            </div>
+          </div>
+
+          <div class="actions">
+            <button id="btnHintCloze" type="button" class="ghostChip">穴埋めヒント</button>
+            <button id="btnCheck" class="primary">答えを見る</button>
+            <button id="btnNext">次へ</button>
+          </div>
+
+          <p id="fb" class="fb"></p>
+
+          <section id="answerBox" class="answerBox" hidden>
+            <p id="aEn"></p>
+            <p id="aIpa"></p>
+            <p id="jpAnswer"><span aria-hidden="true">🇯🇵</span> <span id="aJp"></span></p>
+            <div id="memoryActions" class="memoryActions" hidden>
+              <button id="btnRemembered" type="button" class="memoryBtn remembered">覚えた</button>
+              <button id="btnPending" type="button" class="memoryBtn pending">保留</button>
+              <button id="btnUnknown" type="button" class="memoryBtn unknown">覚えてない</button>
+            </div>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <footer class="mode-footer">
+      <section class="mode-tabs mode-tabs-two">
+        <button id="btnBackToStudy">学習へ戻る</button>
+        <button class="active" type="button">リスニング</button>
+      </section>
+    </footer>
+
+    <script type="module" src="./listening.js"></script>
+  </body>
+</html>

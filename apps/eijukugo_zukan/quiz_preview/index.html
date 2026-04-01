@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Phrasal Verb Training</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="wrap">
+      <header>
+        <h1>Phrasal Verb Training</h1>
+      </header>
+
+      <section class="unit-tabs" id="unitTabs"></section>
+
+      <section class="scope-tabs">
+        <button id="btnScopeAll" class="active">ALL</button>
+        <button id="btnScopeRandom">RANDOM</button>
+        <button id="btnScopeMust">MUST</button>
+      </section>
+
+      <section class="card">
+        <div class="imgPane">
+          <img id="qImg" alt="question image" />
+        </div>
+
+        <div class="bodyPane">
+          <p id="guide" class="guide"></p>
+
+          <div id="panelImage" class="panel active">
+            <p id="cloze" class="cloze"></p>
+            <div class="hintWrap">
+              <p id="hintImageJp" class="hintText" hidden></p>
+            </div>
+          </div>
+
+          <div id="panelListening" class="panel">
+            <div class="hintWrap">
+              <p id="hintListeningCloze" class="hintText" hidden></p>
+              <p id="hintListeningJp" class="hintText" hidden></p>
+            </div>
+          </div>
+
+          <div id="panelCompose" class="panel">
+            <p class="jpLabel">日本語</p>
+            <p id="jp" class="jp"></p>
+            <textarea id="ansCompose" rows="3" placeholder="英文を入力"></textarea>
+          </div>
+
+          <div class="actions">
+            <button id="btnAudio" type="button">🎧</button>
+            <button id="btnHintCloze" type="button" class="ghostChip" aria-expanded="false" hidden>穴埋めヒント</button>
+            <button id="btnHintJp" type="button" class="ghostChip" aria-expanded="false" hidden>日本語ヒント</button>
+            <button id="btnCheck" class="primary">答えを見る</button>
+            <button id="btnNext">次へ</button>
+          </div>
+
+          <p id="fb" class="fb"></p>
+
+          <section id="answerBox" class="answerBox" hidden>
+            <p id="aEn"></p>
+            <button id="btnRevealIpa" type="button" class="ghostChip">発音記号</button>
+            <p id="aIpa" hidden></p>
+            <button id="btnRevealJp" type="button" class="ghostChip">和訳を見る</button>
+            <p id="jpAnswer" hidden><span aria-hidden="true">🇯🇵</span> <span id="aJp"></span></p>
+            <div id="memoryActions" class="memoryActions" hidden>
+              <button id="btnRemembered" type="button" class="memoryBtn remembered">覚えた</button>
+              <button id="btnPending" type="button" class="memoryBtn pending">保留</button>
+              <button id="btnUnknown" type="button" class="memoryBtn unknown">覚えてない</button>
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <section id="listPanel" class="listPanel" hidden>
+        <p id="listEmpty" class="listEmpty" hidden>まだ保留 / 覚えてない問題がありません。</p>
+        <div id="listGrid" class="listGrid"></div>
+        <section class="listBottomNav">
+          <p class="listBottomLabel">次の UNIT を選ぶ</p>
+          <div class="listBottomUnits" id="listBottomUnits"></div>
+        </section>
+      </section>
+
+      <section id="reviewPanel" class="reviewPanel" hidden>
+        <p class="reviewLead">レビューするモードを選んでください。</p>
+        <div class="reviewModeButtons">
+          <button id="btnReviewImageMode" type="button">穴埋めでレビュー</button>
+          <button id="btnReviewListeningMode" type="button">リスニングでレビュー</button>
+          <button id="btnReviewComposeMode" type="button">瞬間英作文でレビュー</button>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="mode-footer">
+      <section class="mode-tabs">
+        <button id="btnImage" class="active">画像＋穴埋め</button>
+        <button id="btnListening">リスニング</button>
+        <button id="btnCompose">瞬間英作文</button>
+        <button id="btnList">一覧</button>
+        <button id="btnReview">レビュー</button>
+      </section>
+    </footer>
+
+    <audio id="audioPlayer" preload="none"></audio>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
