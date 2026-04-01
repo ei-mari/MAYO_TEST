@@ -1,0 +1,43 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.487	1.123	0.636	skip		6.
+2	2.345	2.823	0.479	skip		out.
+3	4.017	5.647	1.630	sentence	S01.mp3	Let's go out for a drink.
+4	6.847	7.236	0.389	skip		Look.
+5	7.667	8.761	1.094	skip		Stars are out.
+6	9.981	11.957	1.976	sentence	S02.mp3	The electricity is out again.
+7	13.209	14.033	0.824	sentence	S03.mp3	Hear me out.
+8	15.246	15.914	0.668	skip		e-doubt.
+9	17.149	18.814	1.665	sentence	S04.mp3	I will about eating out tonight.
+10	20.093	20.774	0.681	skip		point out.
+11	21.980	24.735	2.755	sentence	S05.mp3	He pointed out some mistakes in my English.
+12	25.977	26.687	0.710	skip		Find out.
+13	27.878	29.658	1.780	sentence	S06.mp3	I found out he was lying.
+14	30.878	31.391	0.513	skip		As
+15	31.915	32.337	0.423	skip		out.
+16	33.545	35.347	1.802	sentence	S07.mp3	I asked her out for a date.
+17	36.552	37.500	0.948	skip		Stretch out.
+18	38.713	42.086	3.372	sentence	S08.mp3	Usually stretches out on the sofa after dinner.
+19	43.284	44.289	1.005	skip		Reach out to.
+20	45.514	47.831	2.317	sentence	S09.mp3	We must reach out to homeless people.
+21	49.060	49.779	0.719	skip		Hang out.
+22	50.986	52.881	1.895	sentence	S10.mp3	I have to hang out the laundry.
+23	54.115	54.870	0.754	skip		Layout.
+24	56.081	58.667	2.586	sentence	S11.mp3	He laid out a large map on the desk.
+25	59.849	60.627	0.777	skip		Layout.
+26	61.847	63.994	2.148	sentence	S12.mp3	You laid out a fortune on the wedding.
+27	65.212	65.684	0.472	skip		Count.
+28	66.147	66.607	0.460	skip		Out.
+29	67.815	69.733	1.917	sentence	S13.mp3	You can count me out this time.
+30	70.966	71.787	0.821	skip		Speak out.
+31	72.980	75.050	2.070	sentence	S14.mp3	He spoke out against the decision.
+32	76.285	76.776	0.491	skip		stick.
+33	77.417	77.837	0.420	skip		out.
+34	79.050	81.234	2.185	sentence	S15.mp3	Don't stick your head out of the window.
+35	82.491	83.190	0.699	skip		Dye out.
+36	84.383	87.215	2.832	sentence	S16.mp3	That bird species died out a century ago.
+37	88.416	89.194	0.778	skip		cross out.
+38	90.477	92.143	1.666	sentence	S17.mp3	Cross out the wrong words.
+39	93.349	94.108	0.759	skip		Whereout.
+40	95.355	97.237	1.883	sentence	S18.mp3	Those shoes were out easily.
+41	98.460	99.089	0.629	skip		Go out.
+42	100.278	102.008	1.730	sentence	S19.mp3	could you fill out this form?

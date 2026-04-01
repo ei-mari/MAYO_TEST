@@ -1,0 +1,40 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.481	1.057	0.576	skip		11.
+2	2.290	2.663	0.373	skip		
+3	3.879	5.628	1.749	sentence	S01.mp3	I bought a present for him.
+4	6.850	8.086	1.236	sentence	S02.mp3	This is for you.
+5	9.312	12.498	3.185	sentence	S03.mp3	I bought this watch for $1,000.
+6	13.678	15.219	1.541	sentence	S04.mp3	Thank you for the present.
+7	16.430	17.158	0.729	skip		Head for.
+8	18.415	20.867	2.452	sentence	S05.mp3	This country is heading for recession.
+9	22.113	23.276	1.163	skip		B bound for.
+10	24.518	26.791	2.273	sentence	S06.mp3	This train is bound for Osaka.
+11	28.015	28.782	0.766	skip		Vote for.
+12	30.044	31.699	1.654	sentence	S07.mp3	I voted for that law.
+13	32.948	34.216	1.268	skip		B dying for
+14	35.447	37.096	1.650	sentence	S08.mp3	I'm dying for a beer.
+15	38.354	39.254	0.900	skip		Search for.
+16	40.513	43.593	3.079	sentence	S09.mp3	That company is searching for a new CEO.
+17	44.811	45.608	0.796	skip		Cry for.
+18	46.852	48.950	2.098	sentence	S10.mp3	The baby is crying for milk.
+19	50.144	51.050	0.905	skip		Ask for.
+20	51.900	52.741	0.841	skip		Call for.
+21	53.945	55.813	1.868	sentence	S11.mp3	I asked for her advice.
+22	57.033	57.752	0.719	skip		Hope for.
+23	59.014	61.390	2.377	sentence	S12.mp3	We hoped for a successful result.
+24	62.615	63.429	0.814	skip		Wish for.
+25	64.682	66.687	2.005	sentence	S13.mp3	We wish for world peace.
+26	67.980	68.844	0.864	skip		One, four.
+27	70.080	72.388	2.308	sentence	S14.mp3	They longed for his safe return.
+28	73.614	74.442	0.828	skip		wait for
+29	75.681	77.507	1.826	sentence	S15.mp3	I waited for him to come.
+30	78.717	79.656	0.939	skip		Apply for.
+31	80.882	83.097	2.215	sentence	S16.mp3	Many people applied for the job.
+32	84.356	85.219	0.863	skip		Reach for.
+33	86.480	89.533	3.053	sentence	S17.mp3	He spilled his drink while reaching for the salt.
+34	90.744	92.624	1.880	sentence	S18.mp3	Exchange A for B.
+35	93.884	97.040	3.156	sentence	S19.mp3	Could you exchange these pants for bigger ones?
+36	98.223	100.151	1.928	sentence	S20.mp3	Substitute A for B.
+37	101.381	104.003	2.621	sentence	S21.mp3	You can substitute margarine for butter.
+38	105.212	106.759	1.547	sentence	S22.mp3	Hey A, for B.
+39	107.987	110.084	2.097	sentence	S23.mp3	How much did you pay for the car?

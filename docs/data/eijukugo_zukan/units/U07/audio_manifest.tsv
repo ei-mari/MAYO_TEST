@@ -1,0 +1,24 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.484	1.079	0.595	skip		7
+2	2.315	2.742	0.427	skip		In.
+3	3.952	5.836	1.884	sentence	S01.mp3	The train arrived in Asakusa.
+4	7.049	9.462	2.413	sentence	S02.mp3	Asex lies in the east of Tokyo.
+5	10.682	12.621	1.939	sentence	S03.mp3	I'm in the construction business.
+6	13.817	15.831	2.015	sentence	S04.mp3	My boss will be in at noon.
+7	17.048	18.035	0.987	skip		Take part in.
+8	19.283	21.571	2.288	sentence	S05.mp3	He took part in the speech contest.
+9	22.748	23.402	0.654	skip		Check in.
+10	24.651	26.916	2.265	sentence	S06.mp3	I'd like to check in this baggage.
+11	28.117	29.304	1.187	skip		Be involved in.
+12	30.549	32.614	2.065	sentence	S07.mp3	He was involved in an accident.
+13	33.814	34.269	0.455	skip		Pound?
+14	34.766	35.132	0.366	skip		in.
+15	36.348	37.244	0.897	sentence	S08.mp3	Help me in.
+16	38.528	39.129	0.601	skip		ill and
+17	40.460	42.760	2.300	sentence	S09.mp3	Fill in your name and address here.
+18	43.989	44.780	0.791	skip		Stay in.
+19	46.014	48.791	2.777	sentence	S10.mp3	I usually stay in on Saturday nights.
+20	49.986	51.037	1.051	skip		Be dressed in.
+21	52.295	54.196	1.901	sentence	S11.mp3	She is dressed in white today.
+22	55.418	56.158	0.739	sentence	S12.mp3	You leave in.
+23	57.414	58.785	1.371	sentence	S13.mp3	Do you believe in God?

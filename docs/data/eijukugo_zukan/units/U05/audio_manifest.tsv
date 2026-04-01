@@ -1,0 +1,23 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.495	0.889	0.395	skip		Bye.
+2	2.216	2.718	0.502	skip		over.
+3	3.949	5.784	1.835	sentence	S01.mp3	Eflue over to America.
+4	7.028	8.264	1.236	skip		School is over.
+5	9.481	11.671	2.190	sentence	S02.mp3	Can I start over from the beginning?
+6	12.886	15.399	2.512	sentence	S03.mp3	Let's discuss this matter over lunch.
+7	16.619	17.560	0.941	skip		Stop over.
+8	18.790	20.607	1.817	sentence	S04.mp3	I stopped over at Hong Kong.
+9	21.850	22.655	0.805	skip		crossover.
+10	23.883	25.753	1.869	sentence	S05.mp3	Let's cross over that bridge.
+11	26.952	27.736	0.784	skip		lean over.
+12	28.984	31.370	2.386	sentence	S06.mp3	He leaned over and picked up a wallet.
+13	32.619	33.541	0.922	skip		Boy, you're over.
+14	34.785	36.574	1.789	sentence	S07.mp3	The soup is boiling over.
+15	37.788	38.678	0.890	skip		Roll over.
+16	39.917	42.166	2.249	sentence	S08.mp3	The car rolled over in the street.
+17	43.381	44.207	0.826	skip		talk over.
+18	45.418	47.159	1.741	sentence	S09.mp3	Let's talk it over later.
+19	48.389	49.135	0.746	skip		and go over.
+20	50.358	52.242	1.885	sentence	S10.mp3	I think you should think it over.
+21	53.486	54.302	0.815	skip		Cry over.
+22	55.557	57.287	1.730	sentence	S11.mp3	Don't cry over, spelt milk.

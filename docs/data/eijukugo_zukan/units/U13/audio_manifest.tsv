@@ -1,0 +1,24 @@
+chunk_index	start	end	duration	type	clip	text
+1	0.523	1.265	0.741	skip		13.
+2	2.521	2.832	0.311	skip		of.
+3	4.137	6.376	2.239	sentence	S01.mp3	This beer is free of charge.
+4	7.585	11.631	4.046	sentence	S02.mp3	They came to the same conclusion independent of each other.
+5	12.855	14.735	1.880	sentence	S03.mp3	This desk is made of wood.
+6	16.018	17.754	1.735	sentence	S04.mp3	I always think of you.
+7	19.017	20.752	1.735	sentence	S05.mp3	Rob A of B.
+8	21.957	24.386	2.429	sentence	S06.mp3	The thief robbed me of my bag.
+9	25.582	27.195	1.613	sentence	S07.mp3	Clear A of B.
+10	28.450	30.584	2.134	sentence	S08.mp3	They cleared the roads of snow.
+11	31.848	33.426	1.578	sentence	S09.mp3	your A of B.
+12	34.685	37.315	2.630	sentence	S10.mp3	The doctor cured me of the disease.
+13	38.554	39.449	0.895	sentence	S11.mp3	this pose out.
+14	40.686	43.152	2.466	sentence	S12.mp3	You should dispose of these books.
+15	44.348	45.202	0.854	skip		Pencil stuff.
+16	46.521	49.580	3.059	sentence	S13.mp3	America consists of 50 states.
+17	50.788	51.558	0.770	skip		Speak up.
+18	52.828	54.048	1.220	sentence	S14.mp3	Speak of the devil.
+19	54.394	55.991	1.597	sentence	S15.mp3	and he'll soon appear.
+20	57.284	57.826	0.542	skip		ear of.
+21	59.084	61.652	2.568	sentence	S16.mp3	I heard nothing of him after that.
+22	62.848	63.743	0.895	skip		Complainer
+23	65.043	67.699	2.656	sentence	S17.mp3	is always complaining of something.
